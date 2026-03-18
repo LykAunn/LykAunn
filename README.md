@@ -2,7 +2,7 @@
 
 # 💻 Lyk Aunn
 
-**Computer Science @ University of Edinburgh** | Aspiring Engine Programmer & Systems Architect
+**Artificial Intelligence & Computer Science @ University of Edinburgh** | Aspiring Engine Programmer & Systems Architect
 
 ---
 <!--
