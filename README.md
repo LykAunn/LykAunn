@@ -26,7 +26,7 @@ Scientific & Documentation: Scikit-learn (ML), LaTeX, Agile/Scrum.
 
 ### 🏗️ Featured Projects
 
-#### 🦀 [CHIP-8 Emulator](https://github.com/LykAunn/CHIP8-Emulator) | *Rust*
+#### 🦀 [CHIP-8 Emulator]([https://github.com/LykAunn/CHIP8-Emulator](https://github.com/LykAunn/Chip8-Emulator)) | *Rust*
 
 A low-level emulation of the CHIP-8 interpreted programming language.
 
