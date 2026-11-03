@@ -23,7 +23,6 @@ I focus on the intersection of **low-level systems**, and **high-performance com
 A 3D rendering pipeline built from scratch without hardware graphics APIs.
 *   Implemented homogeneous MVP matrix transformations, perspective division, and viewport mapping.
 *   Engineered bounding-box triangle rasterization using 2D barycentric edge functions and per-pixel z-buffering.
-*   Enforced memory safety and invariants using CMake test targets with ASan, UBSan, and `doctest`.
 
 #### ⚡ [Trade Matching Engine](https://github.com/LykAunn/Trade-Matching-Engine) | *Rust, Ratatui*
 A high-performance limit order book and execution system.
