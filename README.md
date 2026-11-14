@@ -19,7 +19,7 @@ I focus on the intersection of **low-level systems**, and **high-performance com
 
 ### 🏗️ Featured Projects
 
-#### 📐 [3D Software Rasterizer](https://github.com/LykAunn) | *C++, CMake*
+#### 📐 [3D Software Rasterizer](https://github.com/LykAunn/Renderer) | *C++, CMake*
 A 3D rendering pipeline built from scratch without hardware graphics APIs.
 *   Implemented homogeneous MVP matrix transformations, perspective division, and viewport mapping.
 *   Engineered bounding-box triangle rasterization using 2D barycentric edge functions and per-pixel z-buffering.
